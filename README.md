@@ -1,6 +1,14 @@
 # EssentialsPractice
 
+This app help users calculate and track their investment growth over time by inputting initial investment, annual contributions, expected return rate, and investment duration. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
+
+## Screenshots
+
+![1](https://github.com/user-attachments/assets/2feb6086-6e5e-4e23-91e7-31bbc0afaff3)
+(%75 zoom)
+
 
 ## Development server
 
